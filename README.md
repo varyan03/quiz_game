@@ -43,4 +43,4 @@ To run the Pokémon Quiz Game on your local machine, follow these steps:
 ## Contributing
    Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
-   1.**Fork the repository.**
+1.**Fork the repository.**
