@@ -31,3 +31,12 @@ To run the Pokémon Quiz Game on your local machine, follow these steps:
 3. **Install the required dependencies:**
 
    Ensure you have Python installed. The game does not require any external libraries.
+
+## Usage
+
+To start the quiz, run the following command:
+
+  ```bash
+  python pokemon_quiz.py
+
+
