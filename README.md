@@ -55,5 +55,6 @@ To run the Pokémon Quiz Game on your local machine, follow these steps:
    4.**Push to the branch:**
 
       git push origin feature-branch
-   5.**Create a pull request**
-      Please ensure your code follows the project's coding style and includes appropriate documentation.
+   5.**Create a pull request:**
+   
+   Please ensure your code follows the project's coding style and includes appropriate documentation.
