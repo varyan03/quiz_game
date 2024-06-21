@@ -34,9 +34,11 @@ To run the Pokémon Quiz Game on your local machine, follow these steps:
 
 ## Usage
 
-To start the quiz, run the following command:
+   To start the quiz, run the following command:
+   
+      ```bash
+            python  quiz_game.py
 
-  ```bash
-  python pokemon_quiz.py
+hvhdjadasxvahvaj
 
 
