@@ -8,7 +8,7 @@ Welcome to the Pokémon Quiz Game! This is a simple, interactive quiz game built
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
@@ -61,4 +61,4 @@ To run the Pokémon Quiz Game on your local machine, follow these steps:
       git push origin feature-branch
    5. **Create a pull request:**
    
-   Please ensure your code follows the project's coding style and includes appropriate documentation.
+      Please ensure your code follows the project's coding style and includes appropriate documentation.
