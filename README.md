@@ -1,17 +1,25 @@
-**Pokémon Quiz Game**
+****Pokémon Quiz Game****
+
 Welcome to the Pokémon Quiz Game! This is a simple, interactive quiz game built using Python. Test your knowledge of the Pokémon universe with a variety of questions covering different aspects of the Pokémon series.
 
 **Table of Contents**
 Description
+
 Installation
+
 Usage
+
 Contributing
+
 License
 
+
 **Description**
+
 The Pokémon Quiz Game challenges players with a series of questions about Pokémon. The questions cover various topics, including general knowledge, types and evolutions, moves and abilities, legendary and mythical Pokémon, games and regions, and the Pokémon anime and movies.
 
 **Installation**
+
 To run the Pokémon Quiz Game on your local machine, follow these steps:
 
 Clone the repository:
